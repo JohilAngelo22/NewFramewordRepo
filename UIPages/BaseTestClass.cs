@@ -43,7 +43,7 @@ namespace UIPages
             {
                 try
                 {
-                    driver!.Navigate().GoToUrl("https://www.generixgroup.com/en");
+                    driver!.Navigate().GoToUrl("https://www.google.com");
                 }
                 catch (Exception)
                 {
